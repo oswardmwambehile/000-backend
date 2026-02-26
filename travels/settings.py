@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'bookings.apps.BookingsConfig',
     'rest_framework.authtoken',
     'corsheaders',
-    'drf_yasg',
+   
     
 ]
 REST_FRAMEWORK = {
